@@ -59,4 +59,15 @@ npm test
 
 # F:\myprojects> vue init webpack bossjob
 
+# 组件中使用scss,scoped设为组件内生效
+ $<style lang="scss" scoped></style>
+# 处理css、scss样式
+ 1. 在main.js中使用 import 语法，导入css样式表
+    import './css/index.css'
+    - 需要执行命令：cnpm i style-loader css-loader -D
+    - ...在webpack.config.js中配置
+2. cnpm i sass-loader -D
+
+
+
 
