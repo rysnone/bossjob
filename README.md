@@ -1,5 +1,5 @@
 # 使用 vue + node 模仿 boss直聘移动端
-
+# 推送代码至云端，可使用git、tortoiseGit与vscode的提交推送
 # 将本地代码托管到码云中，使用源代码管理工具SVN或Git:
 （建好的项目中）
  1. 新建一个 .gitignore 文件（项目忽略文件）
