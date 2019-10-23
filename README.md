@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bossjob
 
 > A Vue.js project
@@ -28,10 +27,6 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-=======
->>>>>>> remotes/origin/master
 # 使用 vue + node 模仿 boss直聘移动端
 # 推送代码至云端，可使用git、tortoiseGit与vscode的提交推送
 # 将本地代码托管到码云中，使用源代码管理工具SVN或Git:
@@ -48,7 +43,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
  - 使用git命令执行一些操作，先安装Git
  4. 项目终端输入命令：git init，创建本地仓库
  5. 在码云中创建仓库，执行后续操作
-<<<<<<< HEAD
 ## 安装vue
 1. 查看版本
     $ npm -v
@@ -64,7 +58,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
     $ vue init webpack my-project
 
 # F:\myprojects> vue init webpack bossjob
-=======
 
 
->>>>>>> remotes/origin/master
